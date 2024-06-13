@@ -1,4 +1,3 @@
-![logo](https://github.com/bhawanasharmaone/BhawanaSharmaOne/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Bhawana Sharma</h1>
 <h3 align="center">Passionate about data-driven solutions.</h3>
